@@ -1,0 +1,11 @@
+Versions
+
+1. speechbrain version: 0.5.16
+2. pydub version: 0.25.1
+3. fmpeg newest version (7:4.4.2-0ubuntu0.22.04.1).
+4. pyannote.audio version: 3.2.0
+5. whisper version: openai-whisper-20231117 tiktoken-0.7.0
+6. torch version: 2.3.0+cu121
+7. torchaudio version: 2.3.0+cu121
+8. Python version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
+9. pip version: 23.1.2
