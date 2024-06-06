@@ -1,5 +1,5 @@
 # Speaker-Diarization using PyAnnote and Whisper
-##Library Installation:
+###Library Installation:
 
 Installing the latest development version of SpeechBrain ensures you have the newest features and bug fixes.
 Installing a specific stable version of SpeechBrain ensures compatibility if the development version has issues.
